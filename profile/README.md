@@ -1,4 +1,6 @@
-# Lewis Australia
+<p align="center">
+  <img alt="Lewis Australia" src="https://raw.githubusercontent.com/lewis-australia/.github/main/profile/banner.png" />
+</p>
 
 We're an automation engineering company in Moorabbin, Victoria, with over 40 years of experience designing special purpose production equipment. Our clients in mining, metals, automotive and industry come to us for jobs that no standard machine can do.
 
